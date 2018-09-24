@@ -1,5 +1,10 @@
 <?php
-echo ' Masukan Keyword: ';
+echo " +++++++++++++++++++++++++++ ";
+echo " + Google Keyword Scrapper+  ";
+echo " Created By Abdul Muttaqin.  ";
+echo " www.fdci-indonesia.web.id.  ";
+echo "+++++++++++++++++++++++++++++";
+echo ' Input Keyword In Here: ';
 $key = trim(fgets(STDIN));
 function getKeywordSuggestionsFromGoogle($keyword) {
     $keywords = array();
