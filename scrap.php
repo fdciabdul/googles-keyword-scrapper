@@ -1,9 +1,9 @@
 <?php
-echo " +++++++++++++++++++++++++++ "\n;
-echo " + Google Keyword Scrapper+  "\n;
-echo " Created By Abdul Muttaqin.  "\n;
-echo " www.fdci-indonesia.web.id.  "\n;
-echo "+++++++++++++++++++++++++++++"\n;
+echo " +++++++++++++++++++++++++++\n ";
+echo " + Google Keyword Scrapper+ \n";
+echo " Created By Abdul Muttaqin. \n";
+echo " www.fdci-indonesia.web.id. \n";
+echo "++++++++++++++++++++++++++++\n";
 echo ' Input Keyword In Here: ';
 $key = trim(fgets(STDIN));
 function fungsiPengambilanData($keyword) {
